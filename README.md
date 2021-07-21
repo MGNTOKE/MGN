@@ -1,2 +1,0 @@
-# MGN Token
-MGN Token
