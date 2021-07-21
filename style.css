@@ -11,9 +11,6 @@ body,h1,h2,h3,h4,h5,h6 {font-family: 'Nunito', sans-serif; color: #fff;
 * a{
   text-decoration: none;
 }
-* body{
-  position: fixed;
-}
 .block {
     display: inline-block;
     width:430px;
