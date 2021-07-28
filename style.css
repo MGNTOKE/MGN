@@ -118,5 +118,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: 'Nunito', sans-serif; color: #fff;
   }
   .links{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
+    font-size: 20px;
   }
  
